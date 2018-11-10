@@ -1,0 +1,10 @@
+Searching 35 files for "SharpSploit"
+
+/Volumes/secure/pentest/lists/pentest-tools.md:
+  213  
+  214  * [byt3bl33d3r/SILENTTRINITY - A post-exploitation agent powered by Python, IronPython, C#/.NET](https://github.com/byt3bl33d3r/SILENTTRINITY)
+  215: * [cobbr/SharpSploit - a .NET post-exploitation library written in C# that aims to highlight the attack surface of .NET and make the use of offensive .NET easier for red teamers](https://github.com/cobbr/SharpSploit)
+  216  * [BeetleChunks/redsails - a Python based post-exploitation project aimed at bypassing host based security monitoring and logging](https://github.com/BeetleChunks/redsails)
+  217  * [ElevenPaths/ibombshell - a tool written in Powershell that allows you to have a prompt at any time with post-exploitation functionalities (and in some cases exploitation)](https://github.com/ElevenPaths/ibombshell)
+
+2 matches in 1 file
