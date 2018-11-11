@@ -18,7 +18,6 @@ Windows
 * [ubeeri/Invoke-PWAudit - A PowerShell tool which provides an easy way to check for shared passwords between Windows Active Directory accounts](https://github.com/ubeeri/Invoke-PWAudit)
 * [gist: reclaimWindows10.ps1 - This Windows 10 Setup Script turns off a bunch of unnecessary Windows 10 telemetery, bloatware, & privacy things](https://gist.github.com/alirobe/7f3b34ad89a159e6daa1)
 * [jephthai/OpenPasswordFilter - An open source custom password filter DLL and userspace service to better protect / control Active Directory domain passwords](https://github.com/jephthai/OpenPasswordFilter)
-* [GhostPack/Seatbelt - a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives](https://github.com/GhostPack/Seatbelt)
 * [gist: mackwage/windows_hardening.cmd - Script to perform some hardening of Windows OS](https://gist.github.com/mackwage/08604751462126599d7e52f233490efe)
 
 Windows AD

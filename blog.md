@@ -24,6 +24,7 @@ Web security
 * [https://leucosite.com/](https://leucosite.com/)
 * [https://blog.bentkowski.info/](https://blog.bentkowski.info/)
 * [https://www.ambionics.io/blog/](https://www.ambionics.io/blog/)
+* [https://raz0r.name/](https://raz0r.name/)
 
 Threat hunting
 

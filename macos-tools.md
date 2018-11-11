@@ -11,6 +11,10 @@ Monitoring
 * [google/santa - A binary whitelisting/blacklisting system for Mac OS X](https://github.com/google/santa)
 * [didi/kemon - An Open-Source Pre and Post Callback-Based Framework for macOS Kernel Monitoring](https://github.com/didi/kemon)
 
+XPC
+
+* [XPoCe - XPC Snooping utilties for MacOS and iOS (version 2.0)](http://newosxbook.com/tools/XPoCe2.html)
+
 Persistence
 
 * [xorrior/OSX/evilAuthPlugin - 假的认证插件，可以记录密码、创建线程加载后门](https://github.com/xorrior/OSX/tree/master/evilAuthPlugin)
