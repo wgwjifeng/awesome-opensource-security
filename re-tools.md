@@ -111,6 +111,12 @@ Uncategorized
 
 ## Windbg plugins
 
+Plugin development
+
+* [Microsoft/WinDbg-Samples - Sample extensions, scripts, and API uses for WinDbg](https://github.com/Microsoft/WinDbg-Samples)
+
+Uncategorized
+
 * [szimeus/evalyzer - Using WinDBG to tap into JavaScript and help with deobfuscation and browser exploit detection](https://github.com/szimeus/evalyzer)
 * [comaeio/SwishDbgExt - Incident Response & Digital Forensics Debugging Extension](https://github.com/comaeio/SwishDbgExt)
 * [zodiacon/GflagsX - Enhanced version of the GFlags tool](https://github.com/zodiacon/GflagsX)
